@@ -1,5 +1,3 @@
 ||newtoki469.com^$document,important
 ||booktoki466.com^$document,important
 ||manatoki469.net^$document,important
-
-.com
