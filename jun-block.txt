@@ -1,3 +1,8 @@
-||newtoki469.com^$document,important
-||booktoki466.com^$document,important
-||manatoki469.net^$document,important
+||newtoki469.com^$important
+||newtoki469.net^$important
+
+||booktoki466.com^$important
+
+||manatoki469.net^$important
+
+||img1.newtoki20.org^$important
