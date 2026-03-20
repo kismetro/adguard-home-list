@@ -7,3 +7,6 @@
 
 ||img1.newtoki20.org^$important
 
+
+||dapjidown.com^$important
+||board.jinhak.com^$important
