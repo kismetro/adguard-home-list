@@ -1,12 +1,12 @@
 ||newtoki469.com^$important
 ||newtoki469.net^$important
-
 ||booktoki466.com^$important
-
 ||manatoki469.net^$important
-
 ||img1.newtoki20.org^$important
+
+||yako.net^$important
 
 
 ||dapjidown.com^$important
 ||board.jinhak.com^$important
+
