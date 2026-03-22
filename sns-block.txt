@@ -1,0 +1,9 @@
+||youtube.com^
+||www.youtube.com^
+||m.youtube.com^
+||youtu.be^
+||ytimg.com^
+||i.ytimg.com^
+||googlevideo.com^
+||youtubei.googleapis.com^
+||yt3.ggpht.com^
