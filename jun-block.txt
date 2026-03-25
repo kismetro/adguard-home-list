@@ -7,6 +7,9 @@
 ||yako.net^$important
 
 
+||gpubgm.com^$important
+||vasdgame.com^$important
+
 ||dapjidown.com^$important
 ||board.jinhak.com^$important
 
