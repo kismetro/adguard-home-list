@@ -8,8 +8,3 @@
 ||youtubei.googleapis.com^important
 ||yt3.ggpht.com^important
 
-
-||mask.icloud.com^$important
-||mask-h2.icloud.com^$important
-||mask-canary.icloud.com^$important
-||canary.mask.apple-dns.net^$important
