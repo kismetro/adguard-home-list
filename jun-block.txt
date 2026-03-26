@@ -13,3 +13,7 @@
 ||dapjidown.com^$important
 ||board.jinhak.com^$important
 
+||chatgpt.com^
+||oaistatic.com^
+||oaiusercontent.com^
+||openai.com^
