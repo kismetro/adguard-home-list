@@ -1,7 +1,22 @@
+||newtoki.biz^$important
+||newtoki.live^$important
+
 ||newtoki469.com^$important
 ||newtoki469.net^$important
+||newtoki470.com^$important
+||newtoki470.net^$important
+
 ||booktoki466.com^$important
+||booktoki466.net^$important
+||booktoki469.com^$important
+||booktoki469.net^$important
+||booktoki470.com^$important
+||booktoki470.net^$important
+
+||manatoki469.com^$important
 ||manatoki469.net^$important
+
+
 ||img1.newtoki20.org^$important
 
 ||yako.net^$important
