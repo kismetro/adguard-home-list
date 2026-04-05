@@ -20,7 +20,7 @@
 ||img1.newtoki20.org^$important
 
 ||yako.net^$important
-
+||playtown.biz^$important
 
 ||gpubgm.com^$important
 ||vasdgame.com^$important
@@ -28,7 +28,6 @@
 ||dapjidown.com^$important
 ||board.jinhak.com^$important
 
-||chatgpt.com^
+
 ||oaistatic.com^
 ||oaiusercontent.com^
-||openai.com^
