@@ -20,7 +20,9 @@
 ||img1.newtoki20.org^$important
 
 ||yako.net^$important
+||yako03.com^$important
 ||playtown.biz^$important
+||linkbro.xyz^$important
 
 ||gpubgm.com^$important
 ||vasdgame.com^$important
