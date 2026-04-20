@@ -23,9 +23,16 @@
 ||yako03.com^$important
 ||playtown.biz^$important
 ||linkbro.xyz^$important
+||jgmoa14.com^$important
+||jogemoa02.com^$important
+||jgmoagogo.com^$important
+||yugiyu.com^$important
 
 ||gpubgm.com^$important
 ||vasdgame.com^$important
+||pubgameshowtime.com^
+||pubgmobile.com^
+||crazygames.com^
 
 ||dapjidown.com^$important
 ||board.jinhak.com^$important
@@ -33,3 +40,5 @@
 
 ||oaistatic.com^
 ||oaiusercontent.com^
+
+||953dws.com^$important
