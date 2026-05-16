@@ -43,3 +43,6 @@
 ||oaiusercontent.com^
 
 ||953dws.com^$important
+
+||chzzk.naver.com^important
+||api.chzzk.naver.com^important
