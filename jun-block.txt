@@ -48,3 +48,5 @@
 ||api.chzzk.naver.com^important
 ||static-chzzk.naver.com^important
 ||live-chzzk.naver.com^important
+
+||comic.naver.com^$client=jungyu
