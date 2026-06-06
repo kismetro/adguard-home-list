@@ -1,17 +1,27 @@
 ||newtoki.biz^$important
 ||newtoki.live^$important
 
+||newtoki.net^$important
 ||newtoki*.net^$important
+||newtoki.com^$important
 ||newtoki*.com^$important
 
+||booktoki.net^$important
 ||booktoki*.net^$important
+||booktoki.com^$important
 ||booktoki*.com^$important
 
-||manatoki*.com^$important
-||manatoki*.net^$important
 
-||balcktoon*.com^$important
+||manatoki.net^$important
+||manatoki*.net^$important
+||manatoki.com^$important
+||manatoki*.com^$important
+
+
+||balcktoon.net^$important
 ||balcktoon*.net^$important
+||balcktoon.com^$important
+||balcktoon*.com^$important
 
 
 ||img1.newtoki20.org^$important
