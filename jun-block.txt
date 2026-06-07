@@ -18,10 +18,10 @@
 ||manatoki*.com^$important
 
 
-||balcktoon.net^$important
-||balcktoon*.net^$important
-||balcktoon.com^$important
-||balcktoon*.com^$important
+||blacktoon.net^$important
+||blacktoon*.net^$important
+||blacktoon.com^$important
+||blacktoon*.com^$important
 
 
 ||img1.newtoki20.org^$important
