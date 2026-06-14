@@ -28,7 +28,11 @@
 ||yatoon.com^$important
 ||yatoon*.com^$important
 
-||img1.newtoki20.org^$important
+||jusocon.net^$important
+||jusocon*.net^$important
+||jusocon.com^$important
+||jusocon*.com^$important
+
 
 ||yako.net^$important
 ||yako03.com^$important
@@ -39,6 +43,8 @@
 ||jgmoagogo.com^$important
 ||yugiyu.com^$important
 ||www.pornhub.com^$important
+
+||www.size19url.com
 
 ||gpubgm.com^$important
 ||vasdgame.com^$important
