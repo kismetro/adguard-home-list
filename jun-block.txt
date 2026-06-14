@@ -23,6 +23,10 @@
 ||blacktoon.com^$important
 ||blacktoon*.com^$important
 
+||yatoon.net^$important
+||yatoon*.net^$important
+||yatoon.com^$important
+||yatoon*.com^$important
 
 ||img1.newtoki20.org^$important
 
