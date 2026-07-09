@@ -43,6 +43,10 @@
 ||모든주소.com^$important
 ||모든주소*.com^$important
 
+||tkor.net^$important
+||tkor*.net^$important
+||tkor.com^$important
+||tkor*.com^$important
 
 ||yako.net^$important
 ||yako03.com^$important
