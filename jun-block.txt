@@ -11,12 +11,10 @@
 ||booktoki.com^$important
 ||booktoki*.com^$important
 
-
 ||manatoki.net^$important
 ||manatoki*.net^$important
 ||manatoki.com^$important
 ||manatoki*.com^$important
-
 
 ||blacktoon.net^$important
 ||blacktoon*.net^$important
@@ -47,6 +45,17 @@
 ||tkor*.net^$important
 ||tkor.com^$important
 ||tkor*.com^$important
+
+||happytoon.net^$important
+||happytoon*.net^$important
+||happytoon.com^$important
+||happytoon*.com^$important
+
+||jogemoa.net^$important
+||jogemoa*.net^$important
+||jogemoa.com^$important
+||jogemoa*.com^$important
+
 
 ||yako.net^$important
 ||yako03.com^$important
