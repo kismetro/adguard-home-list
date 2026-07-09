@@ -33,6 +33,16 @@
 ||jusocon.com^$important
 ||jusocon*.com^$important
 
+||ygy01.net^$important
+||ygy01*.net^$important
+||ygy01.com^$important
+||ygy01*.com^$important
+
+||모든주소.net^$important
+||모든주소*.net^$important
+||모든주소.com^$important
+||모든주소*.com^$important
+
 
 ||yako.net^$important
 ||yako03.com^$important
