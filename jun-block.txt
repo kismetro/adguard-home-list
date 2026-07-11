@@ -31,6 +31,11 @@
 ||jusocon.com^$important
 ||jusocon*.com^$important
 
+||ygy.net^$important
+||ygy*.net^$important
+||ygy.com^$important
+||ygy*.com^$important
+
 ||ygy01.net^$important
 ||ygy01*.net^$important
 ||ygy01.com^$important
@@ -56,13 +61,29 @@
 ||jogemoa.com^$important
 ||jogemoa*.com^$important
 
+||mingky.net^$important
+||mingky*.net^$important
+||mingky.com^$important
+||mingky*.com^$important
 
 ||yako.net^$important
-||yako03.com^$important
+||yako*.net^$important
+||yako.com^$important
+||yako*.com^$important
+
+||jusowdwd.net^$important
+||jusowdwd*.net^$important
+||jusowdwd.com^$important
+||jusowdwd*.com^$important
+
+||후방.net^$important
+||후방*.net^$important
+||후방.com^$important
+||후방*.com^$important
+
 ||playtown.biz^$important
 ||linkbro.xyz^$important
 ||jgmoa14.com^$important
-||jogemoa02.com^$important
 ||jgmoagogo.com^$important
 ||yugiyu.com^$important
 ||www.pornhub.com^$important
