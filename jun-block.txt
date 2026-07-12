@@ -111,5 +111,3 @@
 ||live-chzzk.naver.com^important
 
 ||comic.naver.com^$client=jungyu
-
-||icanhazip.com
