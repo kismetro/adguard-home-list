@@ -95,6 +95,8 @@
 ||pubgameshowtime.com^
 ||pubgmobile.com^
 ||crazygames.com^
+||icanhazip.com^
+||pokeapi.co^
 
 ||dapjidown.com^$important
 ||board.jinhak.com^$important
@@ -105,6 +107,7 @@
 
 ||953dws.com^$important
 
+||tv.naver.com^important
 ||chzzk.naver.com^important
 ||api.chzzk.naver.com^important
 ||static-chzzk.naver.com^important
