@@ -81,6 +81,23 @@
 ||후방.com^$important
 ||후방*.com^$important
 
+||여기여메인.net^$important
+||여기여메인*.net^$important
+||여기여메인.com^$important
+||여기여메인*.com^$important
+
+||wfwf.net^$important
+||wfwf*.net^$important
+||wfwf.com^$important
+||wfwf*.com^$important
+
+||yandex.net^$important
+||yandex*.net^$important
+||yandex.com^$important
+||yandex*.com^$important
+||yandex.ru^$important
+||yandex*.ru^$important
+
 ||playtown.biz^$important
 ||linkbro.xyz^$important
 ||jgmoa14.com^$important
