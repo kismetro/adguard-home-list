@@ -65,6 +65,8 @@
 ||mingky*.net^$important
 ||mingky.com^$important
 ||mingky*.com^$important
+||mingky.live^$important
+||mingky*.live^$important
 
 ||yako.net^$important
 ||yako*.net^$important
