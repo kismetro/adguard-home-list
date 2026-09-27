@@ -1,7 +1,9 @@
 ! 불법 웹툰·웹소설·주소모음 계열 (숫자·서브도메인·TLD 변경 대응)
 /(^|\.)(newtoki|booktoki|manatoki)[0-9]*\./$important
 /(^|\.)(blacktoon|yatoon|happytoon|tkor|wfwf)[0-9]*\./$important
-/(^|\.)(jusocon|jusowdwd|ygy|jogemoa|jgmoa|jgmoagogo|mingky|yako)[0-9]*\./$important
+/(^|\.)(ygy|jogemoa|jgmoa|jgmoagogo|mingky|yako)[0-9]*\./$important
+/(^|\.)juso[a-z]*[0-9]*\./$important
+@@||juso.go.kr^$important
 
 ! 한글 도메인 (punycode): 모든주소, 후방, 여기여메인
 /(^|\.)(xn--ly1bq3iitgu9h|xn--vh3bn00c|xn--ok0b73um4iba59q)\./$important
