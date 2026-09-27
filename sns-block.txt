@@ -1,10 +1,10 @@
-||youtube.com^important
-||www.youtube.com^important
-||m.youtube.com^important
-||youtu.be^important
-||ytimg.com^important
-||i.ytimg.com^important
-||googlevideo.com^important
-||youtubei.googleapis.com^important
-||yt3.ggpht.com^important
+||youtube.com^$important
+||www.youtube.com^$important
+||m.youtube.com^$important
+||youtu.be^$important
+||ytimg.com^$important
+||i.ytimg.com^$important
+||googlevideo.com^$important
+||youtubei.googleapis.com^$important
+||yt3.ggpht.com^$important
 
