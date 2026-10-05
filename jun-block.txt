@@ -8,6 +8,23 @@
 ! 한글 도메인 (punycode): 모든주소, 후방, 여기여메인
 /(^|\.)(xn--ly1bq3iitgu9h|xn--vh3bn00c|xn--ok0b73um4iba59q)\./$important
 
+! 한글 도메인 (punycode): 툰코 계열 — 툰코주소보기 등 + 끝자리 숫자(1~3자리) 변형
+! 툰코, 툰코주소, 툰코주소보기, 툰코주소모음, 툰코주소찾기, 툰코주소안내, 툰코새주소, 툰코최신주소, 툰코바로가기, 툰코사이트, 툰코링크, 툰코웹툰, 툰코우회, 툰코티비
+/(^|\.)xn--(2h7b95c|[0-9]-vp0g96e|[0-9]{2}-ox3kn8g|[0-9]{3}-h56ol8i)\./$important
+/(^|\.)xn--(9l4b19kgtfw7c|[0-9]-9x4fl4qu3gtxd|[0-9]{2}-994ju9v89hqne|[0-9]{3}-9m5np11anrjn4e)\./$important
+/(^|\.)xn--(ok0b03z1ndutj89hqne|[0-9]-2u6e319anoe85knrjn4e|[0-9]{2}-h52iw10c8mfnom1ykkwf|[0-9]{3}-vg9lt40dujg13nglmhig)\./$important
+/(^|\.)xn--(v52b19jh8ekzb8voqne|[0-9]-h21fl0pjmgw9bnxpn4e|[0-9]{2}-2y0js1ulvh8tc1uqkwf|[0-9]{3}-ov9mt9yn2il4cg5rhig)\./$important
+/(^|\.)xn--(ok0b308agnfmrd12eqpf|[0-9]-2u6er90cu5gg9dmufn0f|[0-9]{2}-h52io35d8pi90e6ngkrg|[0-9]{3}-vg9ll88en3j3qfr4gh6g)\./$important
+/(^|\.)xn--(220bk33a7xckye87jqne|[0-9]-vw7e944bjqdnufnoln4e|[0-9]{2}-oq4il07cuieqsg1ymkwf|[0-9]{3}-hk1mx78d59etohg7nhig)\./$important
+/(^|\.)xn--(og4b2nh8pt3gtxd|[0-9]-2m4fst51v79hqne|[0-9]{2}-ht4jjz85ymrjn4e|[0-9]{3}-vz4nu4an04a0ykkwf)\./$important
+/(^|\.)xn--(9l4b9xc8k71e8xcq4f|[0-9]-9x4f37a08m73fnldn0g|[0-9]{2}-994j07bp2p7xg1wdkuh|[0-9]{3}-9m5n96ce2q71hg8dh8h)\./$important
+/(^|\.)xn--(o39an5bf2p1yd8v5aq0d|[0-9]-2x5e11dtzr8te128ange|[0-9]{2}-hs1ii6e73tgnfu92bk1e|[0-9]{3}-vm7lq1gm0vn9fn86bhnf)\./$important
+/(^|\.)xn--(vf4b27j08gw3csta|[0-9]-hl4fs7omwitudoxa|[0-9]{2}-2q4j57t7rkqjek1a|[0-9]{3}-ow4ni5ytjmn0eg5a)\./$important
+/(^|\.)xn--(9y2bn80bbyau5c|[0-9]-9o1fi66cb6ar2d|[0-9]{2}-9e0jt62ebiboze|[0-9]{3}-938m467fbnbl4e)\./$important
+/(^|\.)xn--(yq5bv6mzmcca|[0-9]-n76f07sw3cca|[0-9]{2}-cp8j49ytudca|[0-9]{3}-059ng84aqjeca)\./$important
+/(^|\.)xn--(vo5b11nzmcvtg|[0-9]-h36f94tw3crth|[0-9]{2}-2i8jm9ztudnpi|[0-9]{3}-ox9nt95aqjejqj)\./$important
+/(^|\.)xn--(9w3b152az7b8va|[0-9]-9k3fx05bwvcq1a|[0-9]{2}-972js77ctid76a|[0-9]{3}-9v2np69dq3dppb)\./$important
+
 /(^|\.)yandex[0-9]*\./$important
 
 ||playtown.biz^$important
