@@ -51,10 +51,6 @@
 ||dapjidown.com^$important
 ||board.jinhak.com^$important
 
-
-||oaistatic.com^
-||oaiusercontent.com^
-
 ||953dws.com^$important
 
 ||tv.naver.com^$important
