@@ -25,7 +25,12 @@
 /(^|\.)xn--(vo5b11nzmcvtg|[0-9]-h36f94tw3crth|[0-9]{2}-2i8jm9ztudnpi|[0-9]{3}-ox9nt95aqjejqj)\./$important
 /(^|\.)xn--(9w3b152az7b8va|[0-9]-9k3fx05bwvcq1a|[0-9]{2}-972js77ctid76a|[0-9]{3}-9v2np69dq3dppb)\./$important
 
+! Yandex: 검색·이미지 검색·지역 도메인 및 지원 리소스
+! yandex.com, yandex.ru, yandex.com.tr, yandex.kz 등의 서브도메인 포함
+! 출처: https://yandex.com/support/yandex-360/business/admin/en/network-settings
 /(^|\.)yandex[0-9]*\./$important
+||ya.ru^$important
+||yastatic.net^$important
 
 ||playtown.biz^$important
 ||linkbro.xyz^$important
@@ -79,3 +84,6 @@
 
 ! Scribd: 루트 도메인과 모든 서브도메인
 ||scribd.com^$important
+
+! 성인 게임 검색·우회 안내 블로그 (사용자 지정)
+||mechanic-engineering.tistory.com^$important
