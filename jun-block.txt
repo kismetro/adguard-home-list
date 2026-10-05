@@ -76,3 +76,6 @@
 
 ! SOOP 라이브: 루트 도메인과 모든 서브도메인
 ||sooplive.com^$important
+
+! Scribd: 루트 도메인과 모든 서브도메인
+||scribd.com^$important
