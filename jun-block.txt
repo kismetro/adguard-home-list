@@ -30,6 +30,7 @@
 ||playtown.biz^$important
 ||linkbro.xyz^$important
 /(^|\.)yugiyu[0-9]*\./$important
+/(^|\.)lybam[0-9]*\./$important
 ||www.pornhub.com^$important
 
 ||www.size19url.com^$important
