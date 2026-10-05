@@ -85,5 +85,9 @@
 ! Scribd: 루트 도메인과 모든 서브도메인
 ||scribd.com^$important
 
-! 성인 게임 검색·우회 안내 블로그 (사용자 지정)
-||mechanic-engineering.tistory.com^$important
+! 성인 게임 검색 안내 글에서 소개한 VPN 서비스
+! 출처: https://mechanic-engineering.tistory.com/25 및 /23
+||protonvpn.com^$important
+||tunnelbear.com^$important
+||windscribe.com^$important
+||urban-vpn.com^$important
