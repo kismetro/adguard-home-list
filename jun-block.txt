@@ -90,3 +90,7 @@
 
 ! Pascal Education (사용자 지정)
 ||pascal.education^$important
+
+! toki35.com (사용자 지정; 본문 접근 제한으로 유관 도메인 미확인)
+! 출처: https://toki35.com/
+||toki35.com^$important
