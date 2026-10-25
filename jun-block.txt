@@ -91,6 +91,5 @@
 ! Pascal Education (사용자 지정)
 ||pascal.education^$important
 
-! toki35.com (사용자 지정; 본문 접근 제한으로 유관 도메인 미확인)
-! 출처: https://toki35.com/
-||toki35.com^$important
+! 사용자 지정: 호스트명에 toki가 포함된 모든 도메인·서브도메인 차단
+/toki/$important
