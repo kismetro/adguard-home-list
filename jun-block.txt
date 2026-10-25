@@ -92,3 +92,7 @@
 
 ! 사용자 지정: 호스트명에 toki가 포함된 모든 도메인·서브도메인 차단
 /toki/$important
+
+! 사용자 지정: 호스트명에 lezhin이 포함된 도메인·숫자·TLD 변형과 서브도메인 차단
+! 출처: https://www.lezhin.com/ko
+/lezhin/$important
