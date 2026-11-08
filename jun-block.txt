@@ -112,3 +112,15 @@
 ! 출처: https://stripchat.com/ https://stake.com/
 ||stripchat.com^$important
 ||stake.com^$important
+
+! 사용자 지정: 아래 요청 주소의 숫자/TLD/서브도메인 변형
+! 출처: https://dppdpp-3963.com/ https://parazone2024.com/ https://ya-1224.com/
+! 출처: https://aa-b5.com/ https://www.sca83.com/ https://wxx77.com/
+! 출처: https://viaprosuper.com/ https://bmt-3192.com/ https://a-v19.com/ https://a2.jbgirl.tv/
+! 일부 주소는 접근 제한으로 위해성·연관 주소 미확인; 명시적 사용자 지정 차단
+! 꿀주소: https://xn--3v0bn15agnf.com/ 및 끝자리 숫자 0~999, TLD 변형
+/(^|\.)(dppdpp-|ya-|bmt-)[0-9]+\./$important
+/(^|\.)(parazone|sca|wxx|a-v)[0-9]+\./$important
+/(^|\.)aa-b[0-9]+\./$important
+/(^|\.)(viaprosuper|jbgirl)[0-9]*\./$important
+/(^|\.)xn--(3v0bn15agnf|[0-9]{1}-xi7es96bu5g|[0-9]{2}-r43i110d8pi|[0-9]{3}-lr0m252engk)\./$important
