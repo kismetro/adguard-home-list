@@ -352,3 +352,16 @@
 ||youjizz.com^$important
 ||youmoan.com^$important
 ||youporn.com^$important
+
+! 사용자 지정: 밤포탈·sbxh·AVKOREA 및 숫자/TLD/서브도메인 변형
+! 출처: https://bampt7.com/ (현재 도메인 주차 페이지) https://sbxh9.com/ https://www.avkorea.co.kr/
+/(^|\.)(bampt|sbxh)[0-9]+\./$important
+/(^|\.)avkorea[0-9]*\./$important
+
+! 야미코리아·야스야동: 원형과 끝자리 숫자 0~999의 Punycode, TLD 변형
+! 출처: https://xn--1-2n1fx2db6p6ham53c.com/ https://xn--2q1bn4zn7bba.com/
+! 야스야동의 현재 링크: https://kr35.javgirl.co/ https://yasyadong04.tv/ (기존 규칙 포함)
+! yasyadong.cc는 DNS/접속 실패, yasyadong04.tv는 TLS 오류로 내부 링크 추가 조사 불가
+! 야미코리아 연결 ym-05.com 및 povkorea.com은 기존 규칙 포함
+/(^|\.)xn--([0-9]{1}-2n1fx2db6p6ham53c|[0-9]{2}-hd0j09eb8rsja510d|[0-9]{3}-v18m15gb2tela558d|oy2b15bbwnlg336b)\./$important
+/(^|\.)xn--(2q1bn4zn7bba|[0-9]{1}-v78eu29agxcba|[0-9]{2}-op6it20c8kdba|[0-9]{3}-h63mw50d12dba)\./$important
