@@ -100,3 +100,15 @@
 ! 사용자 지정: 11toon이 포함된 도메인·숫자·TLD 변형과 서브도메인 차단
 ! 출처: https://11toon8.com/
 /11toon/$important
+
+! 사용자 지정: 왕부랄·스포픽·짭토끼 및 숫자/TLD/서브도메인 변형
+! 출처: https://wangso.net/ https://wang008.com/ https://spopickhub.com/ https://xn--h10bl69b7nf.com/
+! 짭토끼 한글 도메인: 원형 및 끝자리 숫자 0~999 (Punycode)
+/(^|\.)(wangso|spopickhub)[0-9]*\./$important
+/(^|\.)wang[0-9]+\./$important
+/(^|\.)xn--([0-9]{1}-ot7ei56dj7g|[0-9]{2}-vl4il45fubi|[0-9]{3}-2d1mu13h5wj|h10bl69b7nf)\./$important
+
+! 짭토끼에서 연결된 성인 라이브·온라인 카지노 (실제 내용 확인)
+! 출처: https://stripchat.com/ https://stake.com/
+||stripchat.com^$important
+||stake.com^$important
