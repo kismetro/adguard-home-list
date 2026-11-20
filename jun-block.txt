@@ -365,3 +365,8 @@
 ! 야미코리아 연결 ym-05.com 및 povkorea.com은 기존 규칙 포함
 /(^|\.)xn--([0-9]{1}-2n1fx2db6p6ham53c|[0-9]{2}-hd0j09eb8rsja510d|[0-9]{3}-v18m15gb2tela558d|oy2b15bbwnlg336b)\./$important
 /(^|\.)xn--(2q1bn4zn7bba|[0-9]{1}-v78eu29agxcba|[0-9]{2}-op6it20c8kdba|[0-9]{3}-h63mw50d12dba)\./$important
+
+! 사용자 지정: toonkorea 숫자/TLD/서브도메인 변형 및 확인된 이미지 제공 호스트
+! 출처: https://toonkorea1.com/ (이미지 src: apitk.peertrk.com)
+/(^|\.)toonkorea[0-9]*\./$important
+||apitk.peertrk.com^$important
