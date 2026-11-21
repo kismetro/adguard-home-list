@@ -376,11 +376,3 @@
 ! yes12.net HTTP는 warning.or.kr 안내 응답; yes11/13/14는 현재 본문 미확인
 ! yes24.net은 정상 YES24로 연결되므로 yes[0-9]+ 전체 차단 대신 관측된 번호만 제한
 /(^|\.)yes(11|12|13|14|111)\.net$/$important
-
-! 사용자 지정 후보: wtcdn.org (403 접근 제한, 용도·위해성 미확인)
-! 출처: https://wtcdn.org/
-||wtcdn.org^$important
-
-! 사용자 지정 후보: silverbullet.icu (숨김 iframe 스크립트; 성인/도박 본체로 미확정)
-! 출처: https://silverbullet.icu/p/d259093e-94d7-43ec-9110-3767b3c884af/bootstrap.js
-||silverbullet.icu^$important
