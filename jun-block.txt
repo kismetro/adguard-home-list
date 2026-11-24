@@ -376,3 +376,7 @@
 ! yes12.net HTTP는 warning.or.kr 안내 응답; yes11/13/14는 현재 본문 미확인
 ! yes24.net은 정상 YES24로 연결되므로 yes[0-9]+ 전체 차단 대신 관측된 번호만 제한
 /(^|\.)yes(11|12|13|14|111)\.net$/$important
+
+! 사용자 지정: 밤포탈주소 원형·끝자리 숫자 0~999, TLD·서브도메인 변형
+! 출처: https://xn--qh3by2hgqhdui34d.cc/
+/(^|\.)xn--([0-9]{1}-6o2fm2luzie7j2ve|[0-9]{2}-nw1js2p8vkfxl1kf|[0-9]{3}-330ni0tn3lgjn07f|qh3by2hgqhdui34d)\./$important
