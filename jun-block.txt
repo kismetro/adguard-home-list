@@ -412,3 +412,15 @@
 ! juso1link.org의 확인된 리다이렉트 목적지 (사용자 지정 주소 안내 서비스)
 ! 출처: https://juso1link.org/ → https://www.xn--lk3bt5gkzf3tbd2a.com/
 ||xn--lk3bt5gkzf3tbd2a.com^$important
+
+! 사용자 지정: newto 숫자/TLD/서브도메인 변형 (newtokki.digital은 기존 규칙 포함)
+! 출처: https://newto95.com/ (뉴토끼 웹툰 미리보기) https://newto100.com/ (현재 조회 불가)
+/(^|\.)newto[0-9]+\./$important
+
+! LAND 카지노·스포츠베팅 및 연결 주소
+! 출처: https://land-111.com/ https://xn--hy1b45cgxnvwg.org/
+! 랜드접속: 원형 및 끝자리 숫자 0~999 Punycode, TLD·서브도메인 변형
+! https://laxinctthilnjs9od7h.com/ → https://xn--hy1b45cgxnvwg.org/ 리다이렉트 확인
+/(^|\.)land-[0-9]+\./$important
+/(^|\.)xn--([0-9]{1}-on9el4e5upj9h|[0-9]{2}-vc7iz4gvxr6pj|[0-9]{3}-204m53ilstuxk|hy1b45cgxnvwg)\./$important
+||laxinctthilnjs9od7h.com^$important
