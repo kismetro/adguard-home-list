@@ -380,3 +380,35 @@
 ! 사용자 지정: 밤포탈주소 원형·끝자리 숫자 0~999, TLD·서브도메인 변형
 ! 출처: https://xn--qh3by2hgqhdui34d.cc/
 /(^|\.)xn--([0-9]{1}-6o2fm2luzie7j2ve|[0-9]{2}-nw1js2p8vkfxl1kf|[0-9]{3}-330ni0tn3lgjn07f|qh3by2hgqhdui34d)\./$important
+
+! 사용자 지정: 웹툰·영상·유흥·주소 안내 사이트 및 숫자/TLD/서브도메인 변형
+! 출처: https://obam45.com/ https://www.tvroomm.cc/ https://animaru2.com/ https://a14c.com/
+! 출처: https://whroahdk.com/ https://diehdzhfldk.com/ https://six-16.com/ https://zxc95.top/
+! metoon.co.k는 미해결 주소; https://metoon.co.kr/ 미툰 확인, metoon 계열로 사용자 지정 차단
+! 머니툰 연결 mtoon162.asia → mtoon165.asia; a14c.com 연결 wftoon237.com
+! whroahdk → jogemoa43.com, diehdzhfldk → yadongkorea20.com, zxc95 → jusoclub.top은 기존 규칙 포함
+! 일부 대상은 본문·위해성 미확인; 지정 주소 외 공용 서비스는 확대 차단하지 않음
+! newtokki.xyz는 기존 toki와 달리 k가 두 개인 철자 변형
+! 출처: https://newtokki.xyz/ https://juso1link.org/
+/(^|\.)(obam|tvroomm|animaru|metoon|whroahdk|diehdzhfldk|a14c|mtoon|wftoon|newtokki)[0-9]*\./$important
+/(^|\.)six-[0-9]+\./$important
+/(^|\.)zxc[0-9]+\./$important
+/(^|\.)juso[0-9]+link[0-9]*\./$important
+
+! 사용자 지정: 주소클럽의 개별 호스팅 주소만 차단 (univer.se 전체 제외)
+! 출처: https://zdd.univer.se/
+||zdd.univer.se^$important
+
+! 사용자 지정: 머니툰·주소핫링크지원·주소핫지원·주소집모음·주소톡
+! 한글 도메인 원형 및 끝자리 숫자 0~999, TLD·서브도메인 변형
+! 출처: https://머니툰.com/ https://주소핫링크지원.com/ https://주소핫지원.com/
+! 출처: https://주소집모음.com/ https://주소톡.kr/
+/(^|\.)xn--(9i1b14l8vv|[0-9]{1}-9r8el4qkz0a|[0-9]{2}-905iu9vvi5a|[0-9]{3}-992mp11a6h0b)\./$important
+/(^|\.)xn--(9y2bn6luteqpcc2a160a0xi|[0-9]{1}-9o1fo3rdyfm3cx7au30akwj|[0-9]{2}-9e0jm1xvygiodjsbn02a32k|[0-9]{3}-938mw52ae2he1d4wbg73anyl)\./$important
+/(^|\.)xn--(9l4bi0hv0bpway04b|[0-9]{1}-9x4fy8krpcb2ab62c|[0-9]{2}-994j37on3cw7an71c|[0-9]{3}-9m5nu4sjodisbz64c)\./$important
+/(^|\.)xn--([0-9]{1}-h21fl0pjmgw9bttb|[0-9]{2}-2y0js1ulvh8tcwxb|[0-9]{3}-ov9mt9yn2il4cz2b|v52b19jh8ekzbq4a)\./$important
+/(^|\.)xn--(9l4b19kzvh|[0-9]{1}-9x4fl4q7sj|[0-9]{2}-994ju9vgil|[0-9]{3}-9m5np11ao5m)\./$important
+
+! juso1link.org의 확인된 리다이렉트 목적지 (사용자 지정 주소 안내 서비스)
+! 출처: https://juso1link.org/ → https://www.xn--lk3bt5gkzf3tbd2a.com/
+||xn--lk3bt5gkzf3tbd2a.com^$important
